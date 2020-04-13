@@ -1,1 +1,1 @@
-# rn-cats
+# RN-Starter
